@@ -374,7 +374,7 @@ nav .fas{
 
 @media only screen and (max-width: 60px){
     #header {
-        background-image: url(Images/back3 copy.jpeg);
+        background-image: url(Images/back3\ copy.jpeg);
     }
     .header-text{
         margin-top: 100%;
